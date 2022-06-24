@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Cinemachine;
 
+//This has been created to work with cinemachine. If you aren't using Cinemachine, you will have to remove anything relating to it.
 public class ThirdPersonController : MonoBehaviour
 {
     public CharacterController controller;
